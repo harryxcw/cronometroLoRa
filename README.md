@@ -1,0 +1,2 @@
+# cronometroLoRa
+ski Timing System
