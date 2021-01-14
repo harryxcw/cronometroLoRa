@@ -1,0 +1,13 @@
+NOTE ARRIVO
+Per farlo andare ho cambiato rispetto alla versione con ESP32 i decine dei 
+pin per il LoRa, commentato tutte le parti che non ci sono perchè non c'è il display
+
+A riga 101 ho commentato perché quella riga serviva con ESP32 ma non con mini
+
+Anche se c'è scritto pro mini va settato Arduino IDE su mini (no promini) xkè senno non la flasha. (https://www.thethingsnetwork.org/forum/t/ttgo-t-deer/21435/73)
+
+Ricorda che quando lo si flasha i 3 ponticelli del lora vanno tolti e poi rimessi x usarlo
+
+Altri usati x trubleshooting:
+https://www.turais.de/how-to-connect-to-thethingsnetwork/
+https://github.com/sandeepmistry/arduino-LoRa
