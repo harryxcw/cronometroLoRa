@@ -1,0 +1,8 @@
+PINOUT
+
+Start:
+Relay reed GND D25
+Button GND D13
+
+End:
+Accellerometer: 3v3 GND A3 A6 A7
